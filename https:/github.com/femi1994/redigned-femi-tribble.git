@@ -1,0 +1,6 @@
+echo "# redigned-femi-tribble" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/femi1994/redigned-femi-tribble.git
+git push -u origin master
